@@ -1,4 +1,4 @@
-const chromePath = require("../src/chrome-path");
+const chromePath = require("../src/chrome-path.js");
 
 describe("example", () => {
     test("chrome path", () => {
